@@ -153,6 +153,7 @@ body {
 
 .sort-wrapper {
   position: relative;
+  cursor: pointer;
 }
 
 .sort-wrap {
