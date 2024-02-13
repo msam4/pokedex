@@ -84,7 +84,7 @@ body {
   height: 100vh;
   width: 100vw;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  font-family: "Press Start 2P", "Poppins", sans-serif;
 }
 
 .main {
@@ -149,6 +149,7 @@ body {
 .search-wrap > input {
   width: 60%;
   border: none;
+  font-family: "Press Start 2P", "Poppins", sans-serif;
 }
 
 .sort-wrapper {
