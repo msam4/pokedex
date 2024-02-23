@@ -1,6 +1,6 @@
 # 📑 Pokedex
 
-A functioning Pokedex to find information about all 151 original pokemon!
+A functional Pokedex to find information about all 151 original pokemon!
 <br>
 You can search by name or a pokemon's id.
 <br>
@@ -12,6 +12,7 @@ You can see the details and stats of each pokemon.
 <br>
 <br>
 <img src="https://github.com/msam4/pokedex/assets/137851066/886a6278-a4d2-4685-b529-8b5a95ba5d8a" alt="Pikachu" width="300">
+<br>
 <br>
 
 ## Getting Started
